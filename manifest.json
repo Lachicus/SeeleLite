@@ -1,0 +1,16 @@
+{
+  "name": "SeeleAI",
+  "short_name": "Seele",
+  "description": "Personal AI Assistant",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "./static/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
